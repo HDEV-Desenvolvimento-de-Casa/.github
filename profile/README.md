@@ -1,123 +1,36 @@
-# 👨‍💻 HDEV | Desenvolvimento de Casa  
-**Comunidade para Desenvolvedores — Conteúdo, Desafios e Aprendizado Prático**
+# 🚀 HDEV & DevsFree: Engenharia de Software de Alto Nível
 
-Bem-vindo à **HDEV**, uma comunidade criada para unir desenvolvedores que desejam evoluir por meio de prática real, estudos guiados e desafios contínuos.  
-Aqui você encontrará conteúdos organizados em **texto, áudio e vídeo**, além de exercícios práticos e projetos completos — tudo utilizando exclusivamente recursos gratuitos do GitHub.
+Bem-vindo ao centro de treinamento da **HDEV** em parceria com a ONG **DevsFree** e a comunidade **Código Certo Coders**. 
 
----
+Aqui, não apenas ensinamos a codar; formamos **Engenheiros de Software**. Com o suporte de mentores com mais de 20 anos de experiência, nossa missão é filtrar o ruído do mercado e focar no que realmente importa: **Fundamentos, Profissionalismo e Entrega.**
 
-## 🚀 Sobre a HDEV
+## 🎓 Nossa Trilha de Aprendizado
 
-A HDEV nasce da experiência de mais de **20 anos de carreira** na área de desenvolvimento de software, atuando em projetos **desktop, web e mobile**, e compartilhando conhecimento técnico de forma acessível, direta e aplicável ao mundo real.
+Nossa metodologia é dividida em pilares universitários adaptados para o mercado real:
 
-Nosso foco é:
+1. **[Módulo 01] Fundamentos de Engenharia:** Lógica, Algoritmos e Pensamento Computacional.
+2. **[Módulo 02] Ferramental do Ofício:** Git Profissional, CLI e Ambiente de Desenvolvimento.
+3. **[Módulo 03] Core Languages:** Domínio profundo de C#, Java, Python ou JavaScript.
+4. **[Módulo 04] Qualidade e Arquitetura:** Clean Code, SOLID, Testes Unitários e Design Patterns.
+5. **[Módulo 05] Especialização:** RPA (Robotic Process Automation), Web Full Stack e Mobile.
 
-- Criar **conteúdos de alta qualidade** para quem deseja aprender ou se aperfeiçoar.  
-- Organizar tudo em um único ecossistema: **GitHub**.  
-- Ensinar usando **projetos reais**, não apenas teoria.  
-- Desenvolver uma comunidade colaborativa.  
-- Tornar o aprendizado gratuito, acessível e duradouro.  
+## 🛠️ Como Participar?
 
-Não vendemos cursos.  
-Não usamos plataformas externas.  
-Tudo é construído, consumido e evoluído **dentro do GitHub**.
+Se você é aluno da **DevsFree** ou membro da **Código Certo Coders**, este é o seu laboratório.
 
----
+1. **Explore as Issues:** Procure por tarefas marcadas com `good first issue`.
+2. **Siga a Trilha:** Comece pelos diretórios numerados (01, 02...).
+3. **Submeta seus Desafios:** Não guarde seu código no seu PC. Aprenda a fazer Pull Requests (veja o guia de contribuição).
 
-## 🎯 Objetivo da Comunidade
-
-A **HDEV | Desenvolvimento de Casa** existe para:
-
-- Criar um espaço de estudo estruturado para iniciantes e profissionais.  
-- Oferecer desafios práticos para elevar suas habilidades.  
-- Compartilhar projetos modelo e boas práticas.  
-- Fornecer trilhas e materiais atualizados sobre tecnologias modernas.  
-- Estimular um desenvolvimento profissional contínuo.  
-
-Quer aprender?  
-Quer praticar?  
-Quer participar de algo maior?  
-Você está no lugar certo.
+## 📢 Canais de Apoio
+* 🎥 [YouTube HDEV](https://www.youtube.com/@hdevinfo) - Aulas teóricas e práticas.
+* 💬 [WhatsApp Código Certo](https://chat.whatsapp.com/CYrfRQRLVcM6r0CreK4gYU) - Comunidade e dúvidas rápidas.
+* 💬 [WhatsApp HDevFree](https://chat.whatsapp.com/GwcomlxHICV1R74eXruWZX) - Grupo e dúvidas rápidas.
+* 💼 [LinkedIn](https://www.linkedin.com/in/robsonamendonca/) - Networking e carreira.
 
 ---
 
-## 📚 O que você encontrará aqui
-
-### 🔹 **Conteúdos em Texto**  
-Guias, artigos técnicos, anotações, referências e documentação própria.
-
-### 🔹 **Conteúdos em Áudio**  
-Explicações rápidas, reflexões sobre carreira, breakdowns de conceitos e “mini-aulas”.
-
-### 🔹 **Vídeos**  
-Análises, tutoriais, aulas completas e estudos de caso.
-
-### 🔹 **Desafios Práticos**  
-Do iniciante ao avançado, envolvendo:
-- Lógica de programação  
-- Desenvolvimento desktop  
-- Web modern stack  
-- Mobile híbrido/nativo  
-- Testes, refatoração, padrões e arquitetura  
-
-### 🔹 **Projetos Guiados**  
-Repositórios completos com:
-- README detalhado  
-- Escopo definido  
-- Tarefas abertas no Issues  
-- Roadmaps  
-- Releases  
-- Branches organizadas  
-
-Tudo pronto para você **estudar, forkar e colocar a mão na massa**.
-
----
-
-## 🧩 Como Participar
-
-Você pode participar de diversas maneiras:
-
-- ⭐ Dando estrela nos projetos  
-- 👥 Seguindo a organização  
-- 🗣️ Contribuindo via Pull Requests  
-- 🔧 Resolvendo desafios  
-- 📝 Respondendo exercícios no GitHub Discussions  
-- 📦 Criando melhorias e sugerindo conteúdos  
-
-A comunidade cresce através da prática e da colaboração.
-
----
-
-## 🏛️ Áreas de Atuação
-
-A HDEV cobre todo o ciclo de desenvolvimento:
-
-- **Aplicações Desktop**  
-- **Sistemas Web**  
-- **Aplicativos Mobile**  
-- **APIs e Microsserviços**  
-- **Padrões de Projeto**  
-- **Arquitetura de Software**  
-- **Boas Práticas e Clean Code**  
-- **Carreira e Mercado**
-
-O conteúdo é produzido com base em décadas de experiência real em empresas, consultorias, freelances e projetos corporativos.
-
----
-
-## 🔗 Links Importantes
-
-- 🌐 **Página da Organização**  
-  [https://github.com/HDEV-Desenvolvimento-de-Casa](https://github.com/HDEV-Desenvolvimento-de-Casa)
-
-- 📚 **Desafios e Exercícios**  
-  (em breve)
-
-- ▶️ **Vídeos e Aulas**  
-  https://www.youtube.com/@hdevinfo
-  
-- 💬 **Discussões e Comunidade**  
-  (em breve)
+"O software é escrito para humanos lerem, e apenas incidentalmente para máquinas executarem."
 
 ---
 
