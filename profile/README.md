@@ -9,10 +9,9 @@ Aqui, não apenas ensinamos a codar; formamos **Engenheiros de Software**. Com o
 Nossa metodologia é dividida em pilares universitários adaptados para o mercado real:
 
 1. **[Módulo 01] Fundamentos de Engenharia:** Lógica, Algoritmos e Pensamento Computacional.
-2. **[Módulo 02] Ferramental do Ofício:** Git Profissional, CLI e Ambiente de Desenvolvimento.
-3. **[Módulo 03] Core Languages:** Domínio profundo de C#, Java, Python ou JavaScript.
-4. **[Módulo 04] Qualidade e Arquitetura:** Clean Code, SOLID, Testes Unitários e Design Patterns.
-5. **[Módulo 05] Especialização:** RPA (Robotic Process Automation), Web Full Stack e Mobile.
+2. **[Módulo 02] Core Languages:** Domínio profundo de C#, Java, Python ou JavaScript.
+3. **[Módulo 03] Ferramental do Ofício:** Git Profissional, CLI e Ambiente de Desenvolvimento.rns.
+4. **[Módulo 04] Especialização:** RPA (Robotic Process Automation), Web Full Stack e Mobile.
 
 ## 🛠️ Como Participar?
 
