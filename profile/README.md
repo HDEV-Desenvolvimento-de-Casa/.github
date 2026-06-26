@@ -26,7 +26,7 @@ Se você é aluno da **DevsFree** ou membro da **Código Certo Coders**, este é
 * 💬 [WhatsApp Código Certo](https://chat.whatsapp.com/CYrfRQRLVcM6r0CreK4gYU) - Comunidade e dúvidas rápidas.
 * 💬 [WhatsApp HDevFree](https://chat.whatsapp.com/GwcomlxHICV1R74eXruWZX) - Grupo e dúvidas rápidas.
 * 💼 [LinkedIn](https://www.linkedin.com/in/robsonamendonca/) - Networking e carreira.
-
+* 📥 [E-mails] : (devsfree@devsfree.com.br) - (contato@hdev.com.br) 
 ---
 
 "O software é escrito para humanos lerem, e apenas incidentalmente para máquinas executarem."
